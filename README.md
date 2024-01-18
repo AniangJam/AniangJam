@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AniangJam
-- 👀 I’m a data analyst who enjoys documenting her learning journey.
+- 👋 Hi, I’m Abdoulaye
+- 👀 I’m a data analyst who enjoys documenting his learning journey.
 - 🌱 I’m currently learning data storytelling.
 - 💞️ I’m looking to collaborate on Data Analysis Projects
-- 📫 How to reach me 
+- 📫 How to reach me abdoulaye_niang@outlook.com
 
 **Skills and Tools:**
 
