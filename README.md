@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data Engineering.
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me abdoulaye_niang@outlook.com
+- 👀 Check my portfolio here : https://bit.ly/49jqxzf
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
